@@ -1,0 +1,112 @@
+[
+  {
+    "city": "Udupi",
+    "temperature": 32,
+    "rain": "no"
+  },
+  {
+    "city": "Mumbai",
+    "temperature": 28,
+    "rain": "no"
+  },
+  {
+    "city": "Emiliano Zapata",
+    "temperature": 83.6,
+    "rain": "no"
+  },
+  {
+    "city": "Lujing Zhen",
+    "temperature": 18.6,
+    "rain": "yes"
+  },
+  {
+    "city": "Nkove",
+    "temperature": 68.6,
+    "rain": "no"
+  },
+  {
+    "city": "Šmarje pri Jelšah",
+    "temperature": 31.8,
+    "rain": "no"
+  },
+  {
+    "city": "Langtad",
+    "temperature": 55.5,
+    "rain": "no"
+  },
+  {
+    "city": "Aḑ Ḑil‘",
+    "temperature": 47.6,
+    "rain": "no"
+  },
+  {
+    "city": "Suhopolje",
+    "temperature": 88.3,
+    "rain": "yes"
+  },
+  {
+    "city": "Bảo Lộc",
+    "temperature": 53.6,
+    "rain": "yes"
+  },
+  {
+    "city": "Zuitou",
+    "temperature": 74.8,
+    "rain": "no"
+  },
+  {
+    "city": "Neietsu",
+    "temperature": 91.3,
+    "rain": "no"
+  },
+  {
+    "city": "Khok Charoen",
+    "temperature": 72.5,
+    "rain": "yes"
+  },
+  {
+    "city": "Canto",
+    "temperature": 13.3,
+    "rain": "no"
+  },
+  {
+    "city": "Saramech",
+    "temperature": 0.3,
+    "rain": "no"
+  },
+  {
+    "city": "Koncang",
+    "temperature": 76.5,
+    "rain": "no"
+  },
+  {
+    "city": "Tambaksari",
+    "temperature": 2.4,
+    "rain": "no"
+  },
+  {
+    "city": "Kasina Wielka",
+    "temperature": 30.8,
+    "rain": "yes"
+  },
+  {
+    "city": "Grigoropolisskaya",
+    "temperature": 56.6,
+    "rain": "no"
+  },
+  {
+    "city": "Qal‘at Bīshah",
+    "temperature": 91.8,
+    "rain": "yes"
+  },
+  {
+    "city": "Barbacoas",
+    "temperature": 63.2,
+    "rain": "no"
+  },
+  {
+    "city": "Chennai",
+    "temperature": 35,
+    "rain": "no"
+  }
+]

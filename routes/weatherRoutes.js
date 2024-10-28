@@ -1,0 +1,10 @@
+const express = require("express");
+const weatherController = require("../controllers/weatherController");
+const router = express.Router();
+router.get("/all", weatherController.showAllDetails);
+router.get("/rain", weatherController.showRainDetails);
+router.post("/add", weatherController.addNewCityTempDetails);
+router.put("/changeRain", weatherController.changeRainDetails);
+router.delete("/removeAgra", weatherController.removeCityDetails);
+router.get("/:city", weatherController.showCityDetail);
+module.exports = router;
